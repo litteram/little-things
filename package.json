@@ -1,0 +1,21 @@
+{
+  "type": "module",
+  "dependencies": {},
+  "devDependencies": {
+    "rollup": "^3.20.1",
+    "@rollup/plugin-json": "^6.0.0",
+    "@rollup/plugin-node-resolve": "^15.0.1",
+    "prettier": "^2.8.6",
+    "rambda": "^7.5.0",
+    "rollup-plugin-include-sourcemaps": "^0.7.0"
+  },
+  "prettier": {
+    "trailingComma": "all",
+    "tabWidth": 2,
+    "semi": false,
+    "singleQuote": false,
+    "quoteProps": "consistent",
+    "arrowParens": "always",
+    "proseWrap": "always"
+  }
+}
